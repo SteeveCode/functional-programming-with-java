@@ -1,7 +1,7 @@
 import java.util.List;
 
 //Problem 1: Traditional Approach Print each element from a List on its own line
-//Problem 1: Traditional Approach Print even numbers from a List on its own line
+//Problem 2: Traditional Approach Print even numbers from a List on its own line
 
 public class FP01Structured {
     public static void main(String[] args) {
