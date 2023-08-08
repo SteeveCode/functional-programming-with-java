@@ -1,3 +1,5 @@
+package programming;
+
 import java.util.List;
 
 //Problem 1: Traditional Approach Print each element from a List on its own line
